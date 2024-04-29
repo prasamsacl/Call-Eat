@@ -1,6 +1,7 @@
 <h1>Call&amp;Eat Fin Ciclo </h1>
 
-</h1>![Logo proyecto-Photoroom png-Photoroom](https://github.com/prasamsacl/Call-Eat/assets/113896447/cec7a75d-b20c-4810-a68c-5b20e70327df)</h1>
+![Logo proyecto-Photoroom png-Photoroom](https://github.com/prasamsacl/Call-Eat/assets/113896447/e6cf4aab-91a4-4e95-99ed-6938f0d4dba0)
+
   <p align="left">
 
  <section id="insignias">
