@@ -1,6 +1,5 @@
 # Call-Eat
-Proyecto Call&amp;Eat Fin Ciclo de DAW
-<h1 align="center"> MI README.md</h1>
+<h1 align="center">README.md Call&amp;Eat Fin Ciclo </h1>
 
 
 ![inteligencia-artificial-05](https://github.com/prasamsacl/DWES/assets/113896447/6427ddd3-4854-40a0-b349-188d44e35729)
