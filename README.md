@@ -40,7 +40,7 @@
         </ol>
     </nav>
   <ol>  
- <li>DESCRIPCIÓN DEL PROYECTO </li>
+ <li>Descripción del Proyecto y ámbito de implementación </li>
  En mi proyecto sobre IA, exploraré y analizaré diversas aplicaciones y conceptos relacionados con esta área de la tecnología. Investigaré cómo la IA está transformando diferentes sectores, desde la atención médica hasta la industria automotriz, y cómo está impactando en nuestra vida cotidiana.
     
 ![EvolucionDeIA](https://github.com/prasamsacl/DWES/assets/113896447/f9b9d491-14eb-4a2f-91c3-ca3f04de7e83)
