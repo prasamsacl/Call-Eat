@@ -1,75 +1,99 @@
-<h1>Call&amp;Eat Fin Ciclo </h1>
+<!DOCTYPE html>
+<html lang="es">
 
-![Logo proyecto-Photoroom png-Photoroom](https://github.com/prasamsacl/Call-Eat/assets/113896447/e6cf4aab-91a4-4e95-99ed-6938f0d4dba0)
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Call&Eat - Fin de Ciclo</title>
+</head>
 
-  <p align="left">
+<body>
+    <h1>Call&Eat - Fin de Ciclo</h1>
 
- <section id="insignias">
+    <img src="https://github.com/prasamsacl/Call-Eat/assets/113896447/e6cf4aab-91a4-4e95-99ed-6938f0d4dba0" alt="Logo proyecto-Photoroom png-Photoroom">
+
+    <section id="insignias">
         <div class="badge-container">
             <a href="https://github.com/prettier/prettier">
-                      <a href="#">
-                <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Status">
-            </a>
-                <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" alt="code style: prettier">
+                <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Estado: En desarrollo">
             </a>
             <a href="https://github.com/tu-usuario/tu-repo/actions">
-                <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
+                <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Estado del Build: Pasando">
             </a>
             <a href="https://github.com/tu-usuario/tu-repo/blob/main/LICENSE">
-                <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+                <img src="https://img.shields.io/badge/license-MIT-green" alt="Licencia: MIT">
             </a>
             <a href="https://github.com/tu-usuario/tu-repo">
-                <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
+                <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Versión: 1.0.0">
             </a>
             <a href="https://github.com/tu-usuario/tu-repo">
-                <img src="https://img.shields.io/badge/coverage-80%25-yellow" alt="Code Coverage">
+                <img src="https://img.shields.io/badge/coverage-80%25-yellow" alt="Cobertura de código: 80%">
             </a>
         </div>
     </section>
 
-<nav>
+    <nav>
         <h2>Índice</h2>
         <ol>
-            <br>
-          ✍️<a href="#descripcion">Descripción del Proyecto y ámbito de implementación</a>✍️
-        </br>
-            <br>  💻<a href="#estado">Temporalización del proyecto y fases de desarrollo</a>💻</br>
-           <br>🛠️ <a href="#demostracion">Recursos de hardware y software</a>🛠️</br>
-           <br>📁 <a href="#acceso">Arquitectura software y de sistemas</a>📁 </br>
-             <br> 🔨 <a href="#tecnologias">Descripción de datos</a>🔨</br
+            <li><a href="#descripcion">Descripción del Proyecto y ámbito de implementación</a></li>
+            <li><a href="#estado">Estado del Proyecto</a></li>
+            <li><a href="#demostracion">Demostración de Funciones y Aplicaciones</a></li>
+            <li><a href="#acceso">Acceso al Proyecto</a></li>
+            <li><a href="#tecnologias">Tecnologías Utilizadas</a></li>
+            <li><a href="#contribuyentes">Personas Contribuyentes</a></li>
+            <li><a href="#desarrolladores">Personas Desarrolladoras del Proyecto</a></li>
+            <li><a href="#licencia">Licencia</a></li>
         </ol>
     </nav>
-  <ol>  
- <li>Descripción del Proyecto y ámbito de implementación </li>
- En mi proyecto sobre IA, exploraré y analizaré diversas aplicaciones y conceptos relacionados con esta área de la tecnología. Investigaré cómo la IA está transformando diferentes sectores, desde la atención médica hasta la industria automotriz, y cómo está impactando en nuestra vida cotidiana.
-    
-![EvolucionDeIA](https://github.com/prasamsacl/DWES/assets/113896447/f9b9d491-14eb-4a2f-91c3-ca3f04de7e83)
 
-<li>ESTADO DEL PROYECTO</li>
-🏗️Proyecto en construcción 🏗️
+    <section>
+        <h2 id="descripcion">Descripción del Proyecto y ámbito de implementación</h2>
+        <p>En mi proyecto sobre IA, exploraré y analizaré diversas aplicaciones y conceptos relacionados con esta área de la tecnología. Investigaré cómo la IA está transformando diferentes sectores, desde la atención médica hasta la industria automotriz, y cómo está impactando en nuestra vida cotidiana.</p>
+        <img src="https://github.com/prasamsacl/DWES/assets/113896447/f9b9d491-14eb-4a2f-91c3-ca3f04de7e83" alt="Evolución de la IA">
+    </section>
 
-<li><h4>DEMOSTRACIÓN DE FUNCIONES Y APLICACIONES</h4></li>
+    <section>
+        <h2 id="estado">Estado del Proyecto</h2>
+        <p>🏗️ Proyecto en construcción 🏗️</p>
+    </section>
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
-  
-<li><h4>ACCESO AL PROYECTO</h4></li>
-\## 📁 Acceso al proyecto
+    <section>
+        <h2 id="demostracion">Demostración de Funciones y Aplicaciones</h2>
+        <ul>
+            <li><strong>Funcionalidad 1:</strong> descripción de la funcionalidad 1</li>
+            <li><strong>Funcionalidad 2:</strong> descripción de la funcionalidad 2</li>
+            <li><strong>Funcionalidad 2a:</strong> descripción de la funcionalidad 2a relacionada con la funcionalidad 2</li>
+            <li><strong>Funcionalidad 3:</strong> descripción de la funcionalidad 3</li>
+        </ul>
+    </section>
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+    <section>
+        <h2 id="acceso">Acceso al Proyecto</h2>
+        <p>Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final.</p>
+        <p>Abre y ejecuta el proyecto</p>
+        <p>Muestra cómo abrir y ejecutar el proyecto.</p>
+    </section>
 
-\## 🛠️ Abre y ejecuta el proyecto
+    <section>
+        <h2 id="tecnologias">Tecnologías Utilizadas</h2>
+        <p>Python, Django</p>
+    </section>
 
-**Muest
-<li><h4>TECNOLOGÍAS UTILIZADAS</h4></li>
-  Python, Djando, 
-<li><h4>PERSONAS CONTRIBUYENTES</h4></li>
-Prasamsa Castelao López
+    <section>
+        <h2 id="contribuyentes">Personas Contribuyentes</h2>
+        <p>Prasamsa Castelao López</p>
+    </section>
 
+    <section>
+        <h2 id="desarrolladores">Personas Desarrolladoras del Proyecto</h2>
+        <p>Prasamsa Castelao López</p>
+    </section>
 
-<li><h4>PERSONAS DESARROLLADORAS DEL PROYECTO</h4></li>
-Prasamsa Castelao López
+    <section>
+        <h2 id="licencia">Licencia</h2>
+        <p>Texto de la licencia utilizada en el proyecto.</p>
+    </section>
+</body>
 
-<li><h4>LICENCIA</h4></li>
-</ol>
-
+</html>
 
