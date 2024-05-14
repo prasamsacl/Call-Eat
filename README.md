@@ -41,9 +41,13 @@
     </nav>
   <ol>  
  <li>Descripción del Proyecto y ámbito de implementación </li>
- En mi proyecto sobre IA, exploraré y analizaré diversas aplicaciones y conceptos relacionados con esta área de la tecnología. Investigaré cómo la IA está transformando diferentes sectores, desde la atención médica hasta la industria automotriz, y cómo está impactando en nuestra vida cotidiana.
-    
-![EvolucionDeIA](https://github.com/prasamsacl/DWES/assets/113896447/f9b9d491-14eb-4a2f-91c3-ca3f04de7e83)
+El proyecto Call&Eat es una plataforma web diseñada para mejorar la experiencia de entrega de alimentos a domicilio para los clientes de [nombre de tu restaurante], un establecimiento físico con servicio de entrega propia. La plataforma permite a los clientes realizar pedidos de comida directamente desde el sitio web, ofreciendo comodidad y variedad desde la comodidad de sus hogares.
+
+La implementación inicial se centrará en optimizar la funcionalidad del sitio web para garantizar una experiencia de usuario fluida y segura. Se utilizarán tecnologías modernas de desarrollo web para garantizar un rendimiento óptimo y una navegación intuitiva para los usuarios.
+
+Los clientes de [nombre de tu restaurante] serán el principal grupo de usuarios de la plataforma, beneficiándose de la conveniencia de realizar pedidos en línea y disfrutar de la entrega rápida y confiable proporcionada por los repartidores de la empresa.
+Para mantenerse al día con las demandas del mercado y las preferencias de los clientes, se prevén actualizaciones regulares y mejoras en la plataforma en el futuro. Esto garantizará que Call&Eat continúe ofreciendo un servicio de entrega de alimentos de alta calidad que satisfaga las necesidades de sus usuarios.
+
 
 <li>ESTADO DEL PROYECTO</li>
 🏗️Proyecto en construcción 🏗️
